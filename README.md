@@ -1,2 +1,2 @@
-# mycobacterium-methylation
-scripts for methylation analysis on mycobacterium isolates
+# _Mycobacterium_ Methylation
+Scripts for methylation analysis on _Mycobacterium_ isolates
